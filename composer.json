@@ -1,0 +1,12 @@
+{
+    "name": "kenley08/fbconnect",
+    "authors": [
+        {
+            "name": "kenley08",
+            "email": "fleurinekenley@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/php-sdk-v4" : "4.0.*"
+    }
+}
